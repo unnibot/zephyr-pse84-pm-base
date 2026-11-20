@@ -1,0 +1,4 @@
+&hibernate_wakeup {
+	status = "okay";
+	wakeup-pin0-trigger = "low";
+};
